@@ -1,13 +1,14 @@
 ## Summary
 
-|ConceptKey| Point|
-|-----------------|
-|C#|A modern, strongly typed OOP language by Microsoft|
-|.NET|The platform: CLR runs code, BCL provides libraries, JIT compiles to machine code|
-|Compilation|C# → IL → Machine Code (two-step process)|
-|Entry point|static void Main(string[] args) or top-level statements|
-|Output|Console.WriteLine() / Console.Write()|
-|Input|Console.ReadLine()Comments//, /* */, ///|
+| Concept | Key Point |
+| :--- | :--- |
+| **C#** | A modern, strongly typed OOP language by Microsoft |
+| **.NET** | The platform: CLR runs code, BCL provides libraries, JIT compiles to machine code |
+| **Compilation** | C# → IL → Machine Code (two-step process) |
+| **Entry point** | `static void Main(string[] args)` or top-level statements |
+| **Output** | `Console.WriteLine()` / `Console.Write()` |
+| **Input** | `Console.ReadLine()` |
+| **Comments** | `//`, `/* */`, `///` |
 
 
 ---
