@@ -10,6 +10,7 @@
 - 🔁 You must **pass the exam** before moving to the next lesson
 - ❌ If you don't pass, you retake the lesson and exam
 - 🗂️ Track your progress by checking off completed lessons below
+-     After certain Lessons need to complete a project in order to progress further
 
 ---
 
